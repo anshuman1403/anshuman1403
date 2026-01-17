@@ -1,4 +1,12 @@
-
+👋 Hi, I’m Anshuman
+🎓 Tech student with a strong interest in software engineering and intelligent systems
+👀 Passionate about AI/ML, backend development, cloud computing, and scalable architectures
+🌱 Currently learning advanced backend design, distributed systems, cloud-native development, and GenAI concepts
+💻 Hands-on experience with Python, Java, Spring Boot, REST APIs, databases, and AWS
+🤖 Enthusiastic about building AI-powered applications and data-driven solutions
+⚙️ Interested in system design, performance optimization, and real-world problem solving
+🤝 Open to collaborating on AI/ML projects, backend systems, hackathons, and open-source contributions
+📫 Reach me via LinkedIn | GitHub
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshumansrivastava14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumansrivastava1403@gmail.com) 
 
